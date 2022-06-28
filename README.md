@@ -13,5 +13,8 @@ Some of the skills I anticipate to practice and put to work are:
 - Creating an effective web file system
 - Practicing different html elements I've learned
 
-<!-- What I have learned from doing this projects (Reflection):
-- -->
+Learning goals for TOP's "CSS Foundations" Lessons
+- After completing each lesson and sub-lessons, to take what I have learned and practice it by applying it to this recipe  
+    website
+- Practice how to apply CSS styles, expand and stylize the website
+- Practice working with selectors, CSS properties, cascade of CSS
