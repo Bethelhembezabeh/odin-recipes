@@ -1,3 +1,44 @@
-p {
-    
+/* 
+*{
+
+}
+html {
+
+}
+h1 {
+
+}
+img {
+
+}
+ul {
+
+}
+li {
+
+}how to chain type selector show to chain type selectors
+#E0FF76 Light green
+#FF708E red??
+#DD9DD5 Purple
+#9CF871 Vibrant green
+#57C9CB Weird green
+*/
+
+ul a{
+   /* font-family: "Times New Roman";*/
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+
+}
+a:hover {
+    color:#FF708E;
+}
+
+ul {
+    background-color: black;
+    display: flex;
+}
+li {
+    padding: 10px;
 }
