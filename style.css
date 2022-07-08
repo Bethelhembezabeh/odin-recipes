@@ -1,7 +1,8 @@
-/* 
-*{
 
+*{
+    box-sizing: border-box;
 }
+/*
 html {
 
 }
@@ -15,4 +16,13 @@ ul {
 
 }
 li {
-
+*/
+div {
+    border: 2px solid black;
+    height: 20%;
+}
+ul {
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 0px;
+}
