@@ -2,6 +2,25 @@
 *{
     box-sizing: border-box;
 }
+div {
+    border: 2px solid black;
+}
+div.front_page {
+    height: 100vh;
+    width: 100vw;
+    padding: 40% 30%;
+    margin-bottom: -;
+}
+li {
+    height: 33vh;
+}
+div.rice, div.eggs, div.potatoes{
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+ul {
+    margin-top: auto;
+}
 /*
 html {
 
@@ -21,8 +40,8 @@ div {
     border: 2px solid black;
     height: 20%;
 }
-ul {
+/*ul {
     margin-left: 5%;
     margin-right: 5%;
     padding: 0px;
-}
+}*/
